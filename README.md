@@ -27,7 +27,7 @@ The Quiz App is designed to provide users with an interactive quiz experience. I
 
 ## Screenshots
 
-Include screenshots or GIFs of your app in action.
+
 
 ## Getting Started
 
