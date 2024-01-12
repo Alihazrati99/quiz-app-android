@@ -50,7 +50,7 @@ Follow these steps to set up the project locally:
 
 ### Usage
 
-# The app includes the following functionalities:
+#### The app includes the following functionalities:
 1. Answering Questions: Click on the "True" or "False" buttons to answer quiz questions.
 2. Navigation: Use the arrow button to navigate to the next question.
 3. Result Saving: Save quiz results and view the average score in the app.
