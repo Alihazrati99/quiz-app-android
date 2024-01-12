@@ -27,7 +27,8 @@ The Quiz App is designed to provide users with an interactive quiz experience. I
 ## Screenshots
 ![App1](https://github.com/Alihazrati99/Quiz-app/assets/156400087/e1a487e5-c2aa-47a2-83d0-91ef26d7f274)
 
-![App2](https://github.com/Alihazrati99/Quiz-app/assets/156400087/5262575e-1492-4fa9-8ce4-c52f164b6385)
+![App22](https://github.com/Alihazrati99/Quiz-app/assets/156400087/fd43e181-0be7-4644-9e39-79b22ce2a9a0)
+
 
 
 
