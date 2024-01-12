@@ -24,11 +24,6 @@ The Quiz App is designed to provide users with an interactive quiz experience. I
 - Score tracking and result saving
 - Multi-language support
 
-## Screenshots
-
-
-![App22](https://github.com/Alihazrati99/Quiz-app/assets/156400087/8bdb75f1-338f-4be6-ac2d-ca78d9c55ff0)
-![App2](https://github.com/Alihazrati99/Quiz-app/assets/156400087/73b119b8-c987-40f5-ad97-e411f003ab5f)
 
 ## Screenshots
 
