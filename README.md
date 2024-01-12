@@ -11,8 +11,7 @@ A simple quiz app developed for Android using Java and Android Studio.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -44,3 +43,14 @@ Follow these steps to set up the project locally:
 
    ```bash
    git clone https://github.com/your-username/quiz-app-android.git
+
+1. Open the project in Android Studio.
+
+2. Build and run the app on an Android emulator or device.
+
+### Usage
+
+# The app includes the following functionalities:
+1. Answering Questions: Click on the "True" or "False" buttons to answer quiz questions.
+2. Navigation: Use the arrow button to navigate to the next question.
+3. Result Saving: Save quiz results and view the average score in the app.
