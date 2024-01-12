@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="Q_1">Android عبارة عن حزمة برامج مفتوحة المصدر قائمة على Linux.</string>
+    <string name="Q_2">يتم تنظيم كود مكتبة Android بطريقة يمكن استخدامها من قبل جهات متعددة
+تطبيقات أندرويد.</string>
+    <string name="Q_3">android.view: تحتوي هذه المكتبة على الفئات الأساسية المستخدمة لتطوير الرسوم البيانية
+واجهة المستخدم وللتعامل مع تفاعل المستخدم مع واجهة المستخدم
+؟</string>
+    <string name="Q_4">android.view: تحتوي هذه المكتبة على الأساسيات الأساسية لتطوير الرسوم البيانية
+واجهة المستخدم وللتعامل مع التعامل مع واجهة المستخدم
+؟</string>
+    <string name="Q_5">يتم استخدام موفري محتوى Android لإدارة ومشاركة بيانات التطبيق فيما بينهم
+التطبيقات.؟</string>
+    <string name="Q_6">توفر فئة SharedPreferences إطارًا عامًا يتيح لك حفظ ملفات
+    استرداد أزواج قيم المفاتيح الثابتة لأنواع البيانات البدائية.</string>
+    <string name="Right_ans">تهاني! اجابة صحيحة</string>
+    <string name="Wrong_ans">آسف! إجابة خاطئة</string>
+    <string name="Enter_Number_Of_Question">أدخل رقم السؤال 0-6</string>
+    <string name="Cancel">يلغي</string>
+    <string name="Submit">يُقدِّم</string>
+
+    <string name="Get_Average">احصل على المتوسط</string>
+    <string name="SelectNumberOfQuestion">حدد رقم السؤال</string>
+    <string name="Reset_Result">نتيجة إعادة التعيين</string>
+</resources>

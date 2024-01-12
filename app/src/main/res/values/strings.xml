@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="Q_1">Android is an open source, Linux-based software stack.?</string>
+    <string name="Q_2">The Android library code is organized in such a way that it can be used by multiple
+Android applications.?</string>
+    <string name="Q_3">android.view : This library contains the basic classes used for developing graphical
+user interface and for handling the user’s interaction with the user interface
+?</string>
+    <string name="Q_4"> android.widget : This library contains (mostly visual) user interface components such
+    as Button, Spinner, ListView to be used in your applications?</string>
+    <string name="Q_5">Android content providers are used to manage and share application data between
+applications.?</string>
+    <string name="Q_6">The SharedPreferences class provides a general framework that lets you save and
+    retrieve persistent key-value pairs of primitive data types.</string>
+    <string name="Right_ans">Congrats! Correct Answer</string>
+    <string name="Wrong_ans">Sorry! Incorrect Answer</string>
+    <string name="Enter_Number_Of_Question">Enter Number Of Question 0 - 6</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Submit">Submit</string>
+    <string name="Get_Average">Get Average</string>
+    <string name="SelectNumberOfQuestion">Select Number Of Question</string>
+    <string name="Reset_Result">Reset Result</string>
+</resources>
