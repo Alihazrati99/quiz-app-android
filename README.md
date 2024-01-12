@@ -25,9 +25,7 @@ The Quiz App is designed to provide users with an interactive quiz experience. I
 - Multi-language support
 
 ## Screenshots
-![App2](https://github.com/Alihazrati99/Quiz-app/assets/156400087/00077437-d6c3-43f7-8403-4e1efa243b58)
 
-![App22](https://github.com/Alihazrati99/Quiz-app/assets/156400087/0252e3e5-506b-4957-97a6-e06e4ddb81ec)
 
 
 <p align="center">
