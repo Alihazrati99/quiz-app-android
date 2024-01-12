@@ -26,11 +26,13 @@ The Quiz App is designed to provide users with an interactive quiz experience. I
 
 ## Screenshots
 
+![App22](https://github.com/Alihazrati99/Quiz-app/assets/156400087/cfb4f27b-015c-4ffd-848f-c3826f302ca0)
+![App2](https://github.com/Alihazrati99/Quiz-app/assets/156400087/19c8f829-bec9-4e6a-a917-2becfa5531db)
 
 
 <p align="center">
-  <img src="https://github.com/Alihazrati99/Quiz-app/assets/156400087/e1a487e5-c2aa-47a2-83d0-91ef26d7f274.jpg" width="300" alt="App2">
-  <img src="https://github.com/Alihazrati99/Quiz-app/assets/156400087/fd43e181-0be7-4644-9e39-79b22ce2a9a0.jpg" width="300" alt="App22">
+  <img src="https://github.com/Alihazrati99/Quiz-app/assets/156400087/e1a487e5-c2aa-47a2-83d0-91ef26d7f274.jpg" width="300" alt="App22">
+  <img src="https://github.com/Alihazrati99/Quiz-app/assets/156400087/fd43e181-0be7-4644-9e39-79b22ce2a9a0.jpg" width="300" alt="App2">
 </p>
 
 
