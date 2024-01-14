@@ -2,17 +2,6 @@
 
 A simple quiz app developed for Android using Java and Android Studio.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-
-
 ## Introduction
 
 The Quiz App is designed to provide users with an interactive quiz experience. It includes features such as customizable question numbers, scoring, and result saving.
@@ -23,6 +12,14 @@ The Quiz App is designed to provide users with an interactive quiz experience. I
 - Dynamic question number adjustment
 - Score tracking and result saving
 - Multi-language support
+
+## Video Demo
+
+To gain a comprehensive understanding of the app's functionality and the underlying Java code, **it is crucial to watch THE video**. In the video, I provide detailed explanations of various components and functionalities that may not be covered in this written documentation.
+
+
+https://github.com/Alihazrati99/quiz-app-android/assets/156400087/ffa6fbcf-a36a-4756-8cd4-3b04b9afa091
+
 
 
 ## Screenshots
